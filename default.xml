@@ -13,6 +13,11 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-13.0.0_r11" />
 
+     <default revision="refs/heads/liquid-s1"
+           remote="github"
+           sync-c="true"
+           sync-j="4" />
+
   <default revision="refs/heads/lineage-20.0"
            remote="github"
            sync-c="true"
