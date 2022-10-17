@@ -16,8 +16,3 @@ Then to sync up:
 repo sync
 ```
 
-Submitting patches
-------------------
-Patches are always welcome! Please submit your patches via LineageOS Gerrit!
-
-Simply follow our guide o2x
